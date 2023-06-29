@@ -28,7 +28,7 @@ Brigham Young University-Idaho, Bachelor's Degree in Computer Science (Expected 
 
 My Portfolio: Developed a responsive portfolio website using React and Node.js.
 willys-mini-ecommerce]: Built a ecommerce website application using MERN stack, JavaScript, Html, CSS
-🌐 Portfolio: [willys-mini-ecommerce](https://willardnyamombe.netlify.app/)
+🌐 Portfolio: [willys-portfolio](https://willardnyamombe.netlify.app/)
 🌐 WebSite: [willys-mini-ecommerce](https://willys-mini-ecommerce.netlify.app/)
 
 📫 Contact: [willardnya@gmail.com] | [LinkedIn Profile URL](https://www.linkedin.com/in/willard-nyamombe-104767aa/)
