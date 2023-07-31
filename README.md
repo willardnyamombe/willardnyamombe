@@ -23,7 +23,10 @@ Collaborative team player with excellent communication and problem-solving skill
 📚 Education:
 
 Brigham Young University-Idaho, Bachelor's Degree in Computer Science (Expected Graduation: 2023)
+
 Certificate 1: [AWS Certified Cloud Practitioner](https://www.credly.com/badges/c20e7585-d96f-42bb-be6c-54caa9f4e8d3/public_url)
+
+
 Certificate 2: [Introduction to Web APIs!](https://www.linkedin.com/learning/certificates/a9cf8843e2f1b41542388fe147d1fd1a826906e57f017ec16d8ed631602b0408?u=2153100)
 
 
