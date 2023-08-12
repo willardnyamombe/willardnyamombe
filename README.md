@@ -1,6 +1,6 @@
 ### Hi there!!
 
-Software Engineer | Web Developer | Tech Enthusiast
+Computer Science | Software Engineer | Web Developer | Tech Enthusiast
 
 👋 Hello world! I'm Willard, a passionate and versatile software engineer with a strong focus on web development. With a keen eye for detail and a knack for problem-solving, I strive to create robust and user-friendly applications that make a positive impact.
 
